@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mahmudul Hasan Shafin@mhasan-cmt
 - 👀 I’m interested in ...Desktop app and android app development
-- 🌱 I’m currently learning ...core java, java swing, sql, git & github, ui & ux design etc.
+- 🌱 I’m currently learning evereything.
 
 
 <!---
