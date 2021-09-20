@@ -4,6 +4,6 @@
 - 
 <p>
 <img src="https://github-readme-stats.vercel.app/api?username=mhasan-cmt&show_icons=true&theme=cobalt"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhasan-cmt&theme=cobalt&layout=compact"/>
+<img float="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhasan-cmt&theme=cobalt&layout=compact"/>
 </p>
 
