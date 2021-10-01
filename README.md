@@ -1,4 +1,4 @@
-<img width=100% height="30%" alt="banner" src="assets/code.gif"/>
+<h1>Hi i am Mahmudul Hasan</h1>
 - 👋 Hi, I’m Mahmudul Hasan Shafin@mhasan-cmt
 - 👀 I’m interested in Learning new Things.
 - 🌱 I’m currently learning React and Spring Stack, Native Android development and many more.
