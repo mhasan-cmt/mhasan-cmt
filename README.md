@@ -1,7 +1,9 @@
-- <h1>Hi i am Mahmudul Hasan</h1> <img src="https://c.tenor.com/-B81ztWwYAYAAAAj/covid-hi.gif"/>
+<h1>Hi i am Mahmudul Hasan</h1> <img src="https://c.tenor.com/-B81ztWwYAYAAAAj/covid-hi.gif"/>
+
 - 👋 Hi, I’m Mahmudul Hasan Shafin@mhasan-cmt
 - 👀 I’m interested in Learning new Things.
 - 🌱 I’m currently learning React and Spring Stack, Native Android development and many more.
+
 <img align='right' src="https://komarev.com/ghpvc/?username=mhasan-cmt" alt="mhasancmt" />
 <p>
 <img src="https://github-readme-stats.vercel.app/api?username=mhasan-cmt&show_icons=true&theme=cobalt"/>
