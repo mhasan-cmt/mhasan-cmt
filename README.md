@@ -1,3 +1,4 @@
+![Banner](assets/code.gif)
 - 👋 Hi, I’m Mahmudul Hasan Shafin@mhasan-cmt
 - 👀 I’m interested in Learning new Things.
 - 🌱 I’m currently learning React and Spring Stack, Native Android development and many more.
