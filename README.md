@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m Mahmudul Hasan Shafin@mhasan-cmt
 - 👀 I’m interested in Learning new Things.
-- 🌱 I’m currently learning Full stack web development and Native Android development and much more.
+- 🌱 I’m currently learning Full stack web development, Native Android development and much more.
 
 <img align='right' src="https://komarev.com/ghpvc/?username=mhasan-cmt" alt="mhasancmt" />
 <p>
