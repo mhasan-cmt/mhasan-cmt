@@ -1,8 +1,9 @@
 <h1>Hi i am Mahmudul Hasan</h1> <img src="https://c.tenor.com/-B81ztWwYAYAAAAj/covid-hi.gif"/>
 
-- 👋 Hi, I’m Mahmudul Hasan Shafin@mhasan-cmt
+- 👋 Hi, I’m Mahmudul Hasan@mhasan-cmt
 - 👀 I’m interested in Learning new Things.
-- 🌱 I’m currently learning Full stack web development, Native Android development and much more.
+- 💻 I enjoy doing Full Stack Web Development.
+- 🌱 I’m currently learning Native Android development and much more.
 
 <img align='right' src="https://komarev.com/ghpvc/?username=mhasan-cmt" alt="mhasancmt" />
 <p>
