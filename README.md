@@ -25,3 +25,6 @@
 <img style="margin-left:.2rem;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhasan-cmt&theme=cobalt&layout=compact"/>
 </p>
 
+<p>
+<img alt="Mahmudul Hasan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=mhasan-cmt&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
+</p>
