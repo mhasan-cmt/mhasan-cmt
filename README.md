@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m Mahmudul Hasan@mhasan-cmt
 - 👀 I’m interested in Learning new tech stacks and building cool stuff.
-- 💻 I enjoy doing Backend Web Development.
+- 💻 I enjoy doing Web Development.
 - 🌱 I’m currently learning Native Android development and much more.
 
 <h3>Connect with me 👇</h3>
