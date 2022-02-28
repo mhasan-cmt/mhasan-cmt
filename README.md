@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m Mahmudul Hasan@mhasan-cmt
 - 👀 I’m interested in Learning new Things.
-- 💻 I enjoy doing Full Stack Web Development.
+- 💻 I enjoy doing Backend Web Development.
 - 🌱 I’m currently learning Native Android development and much more.
 
 <img align='right' src="https://komarev.com/ghpvc/?username=mhasan-cmt" alt="mhasancmt" />
