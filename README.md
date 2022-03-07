@@ -4,6 +4,7 @@
 - 👀 I’m interested in Learning new tech stacks and building cool stuff.
 - 💻 I enjoy doing Web Development.
 - 🌱 I’m currently learning Native Android development and much more.
+- 🎯 My goal is to be an Independent Programmer, who can adopt any tech stack very quickly
 
 <h3>Connect with me 👇</h3>
 
