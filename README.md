@@ -19,12 +19,14 @@
 <img align='right' src="https://komarev.com/ghpvc/?username=mhasan-cmt" alt="mhasancmt" />
 <h3>☄️ Github Streaks:</h3>
 <p align="center">
-    <img alt="MehedilslamRipon's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mhasan-cmt&theme=tokyonight&hide_border=true"/>
+    <img alt="Mahmudul Hasan's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mhasan-cmt&theme=tokyonight&hide_border=true"/>
 </p>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=mhasan-cmt&show_icons=true&theme=cobalt"/>
 <img style="margin-left:.2rem;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhasan-cmt&theme=cobalt&layout=compact"/>
 </p>
+
+![GitHub metrics](https://metrics.lecoq.io/mhasan-cmt)
 
 <p>
 <img alt="Mahmudul Hasan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=mhasan-cmt&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
