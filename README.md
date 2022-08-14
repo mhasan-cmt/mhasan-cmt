@@ -17,7 +17,7 @@ I always try to help people in the tech community by sharing my knowledge. I lov
 -  🚀 &nbsp; I’m currently learning Full Stack Web Development.
 -  :computer: &nbsp; Most written code line `universe.forEach( (n) -> { System.out.println("Hello " + n); } );`
 -  👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/mhasan-cmt).
--  👾 &nbsp; Fun Fact: if you are writing a Woman() class in java that does not mean you are objectifying a woman! 😹
+-  👾 &nbsp; Fun Fact: if you are writing a Woman{} class in java that does not mean you are objectifying a woman! 😹
 -  📝 &nbsp; Checkout my [Resume](https://github.com/mhasan-cmt).
 
 <h3>Connect with me 👇</h3>
