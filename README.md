@@ -34,8 +34,8 @@ I always try to help people in the tech community by sharing my knowledge. I lov
     <img alt="Mahmudul Hasan's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mhasan-cmt&theme=tokyonight&hide_border=true"/>
 </p>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=mhasan-cmt&show_icons=true&theme=cobalt"/>
-<img style="margin-left:.2rem;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhasan-cmt&theme=cobalt&layout=compact"/>
+<img src="https://github-readme-stats.vercel.app/api?username=mahsan-cmt&show_icons=true&include_all_commits=true">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhasan-cmt&layout=compact" />
 </p>
 <p align="center">
 <img src="https://metrics.lecoq.io/mhasan-cmt"/></p>
