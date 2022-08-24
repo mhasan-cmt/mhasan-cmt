@@ -5,7 +5,7 @@
 ### Glad to see you here! :octocat:
 
 I'm a **Software Developer**. An enthusiast of technology always enjoys coding and likes to solve programming problems. I am interested in thinking/developing web-related modules or functionality and always try to find new ideas.
-I live in Dhaka, Bangladesh. Recently I have completed my Diploma in Engineering degree from <a href="https://fenipoly.edu.bd/" target="_blank">Feni Polytechnic Institute, Feni</a> and now I am doing my BSC[Eng] in Computer Science and Engineering from <a href="https://www.bubt.edu.bd/" target="_blank">Bangladesh University of Business and Technology, Mirpur, Dhaka</a>
+I live in Dhaka, Bangladesh. Recently I have completed my Diploma in Engineering degree from <a href="https://fenipoly.edu.bd/" target="_blank">Feni Polytechnic Institute, Feni</a> and currently I am doing my BSC[Eng] in Computer Science and Engineering from <a href="https://www.bubt.edu.bd/" target="_blank">Bangladesh University of Business and Technology, Mirpur, Dhaka</a>
 I always try to help people in the tech community by sharing my knowledge. I love to read tech articles, sing & play video games during my free time.
 
 ---
