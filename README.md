@@ -36,6 +36,3 @@ I always try to help people in the tech community by sharing my knowledge. I lov
 </p>
 <p align="center">
 <img src="https://metrics.lecoq.io/mhasan-cmt"/></p>
-<p>
-<img alt="Mahmudul Hasan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=mhasan-cmt&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
-</p>
