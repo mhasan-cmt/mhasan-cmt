@@ -3,19 +3,26 @@
 <div align="center">
 
 ```
- █████╗ ███████╗███╗   ███╗    ███╗   ███╗ █████╗ ██╗  ██╗███╗   ███╗██╗   ██╗██████╗ ██╗   ██╗██╗
-██╔══██╗██╔════╝████╗ ████║    ████╗ ████║██╔══██╗██║  ██║████╗ ████║██║   ██║██╔══██╗██║   ██║██║
-███████║███████╗██╔████╔██║    ██╔████╔██║███████║███████║██╔████╔██║██║   ██║██║  ██║██║   ██║██║
-██╔══██║╚════██║██║╚██╔╝██║    ██║╚██╔╝██║██╔══██║██╔══██║██║╚██╔╝██║██║   ██║██║  ██║██║   ██║██║
-██║  ██║███████║██║ ╚═╝ ██║    ██║ ╚═╝ ██║██║  ██║██║  ██║██║ ╚═╝ ██║╚██████╔╝██████╔╝╚██████╔╝███████╗
-╚═╝  ╚═╝╚══════╝╚═╝     ╚═╝    ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝ ╚═════╝ ╚═════╝  ╚═════╝ ╚══════╝
+███╗   ███╗ █████╗ ██╗  ██╗███╗   ███╗██╗   ██╗██████╗ ██╗   ██╗██╗
+████╗ ████║██╔══██╗██║  ██║████╗ ████║██║   ██║██╔══██╗██║   ██║██║
+██╔████╔██║███████║███████║██╔████╔██║██║   ██║██║  ██║██║   ██║██║
+██║╚██╔╝██║██╔══██║██╔══██║██║╚██╔╝██║██║   ██║██║  ██║██║   ██║██║
+██║ ╚═╝ ██║██║  ██║██║  ██║██║ ╚═╝ ██║╚██████╔╝██████╔╝╚██████╔╝███████╗
+╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝ ╚═════╝ ╚═════╝  ╚═════╝ ╚══════╝
+
+██╗  ██╗ █████╗ ███████╗ █████╗ ███╗   ██╗
+██║  ██║██╔══██╗██╔════╝██╔══██╗████╗  ██║
+███████║███████║███████╗███████║██╔██╗ ██║
+██╔══██║██╔══██║╚════██║██╔══██║██║╚██╗██║
+██║  ██║██║  ██║███████║██║  ██║██║ ╚████║
+╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝
 ```
 
 ### A S M Mahmudul Hasan
 *Curious developer. Relentless builder. Cloud-native thinker.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-mhasancmt-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mhasancmt)
-[![Website](https://img.shields.io/badge/Portfolio-shafin.dev-111827?style=flat-square&logo=firefox&logoColor=white)](https://shafin.dev)
+<!--[![Website](https://img.shields.io/badge/Portfolio-shafin.dev-111827?style=flat-square&logo=firefox&logoColor=white)](https://shafin.dev)-->
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0000--5222--4899-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0000-5222-4899)
 [![Location](https://img.shields.io/badge/Dhaka%2C_Bangladesh-🇧🇩-E53E3E?style=flat-square)](https://github.com/mhasan-cmt)
 [![Repos](https://img.shields.io/badge/Repositories-78-8B5CF6?style=flat-square&logo=github)](https://github.com/mhasan-cmt?tab=repositories)
@@ -26,7 +33,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a full-stack software engineer with deep roots in the **Java/Spring Boot** ecosystem and hands-on cloud experience spanning **AWS**, **Docker**, and **CI/CD pipelines**. I enjoy building systems that are clean under the hood and delightful on the surface — from backend APIs to interactive front-end experiences.
+I'm a full-stack software engineer with deep roots in the **Java/Spring Boot** ecosystem and hands-on cloud experience spanning **AWS**, **Docker**, and **CI/CD pipelines**. I enjoy building systems that are clean under the hood and delightful on the surface, from backend APIs to interactive front-end experiences.
 
 - 🔭 Currently building with **Spring Boot**, **Angular**, and **AWS** cloud services
 - ☁️ Experienced with **Amazon Connect** for cloud contact center solutions
@@ -43,6 +50,11 @@ I'm a full-stack software engineer with deep roots in the **Java/Spring Boot** e
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
 
 ### Frontend
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
@@ -119,7 +131,7 @@ I'm a full-stack software engineer with deep roots in the **Java/Spring Boot** e
 I'm always open to interesting problems, collaborations, and conversations about software.
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mhasancmt)
-[![Portfolio](https://img.shields.io/badge/Visit_shafin.dev-111827?style=for-the-badge&logo=firefox&logoColor=white)](https://shafin.dev)
+<!--[![Portfolio](https://img.shields.io/badge/Visit_shafin.dev-111827?style=for-the-badge&logo=firefox&logoColor=white)](https://shafin.dev)-->
 
 ---
 
