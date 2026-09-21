@@ -2,22 +2,6 @@
 </p>
 <div align="center">
 
-```
-███╗   ███╗ █████╗ ██╗  ██╗███╗   ███╗██╗   ██╗██████╗ ██╗   ██╗██╗
-████╗ ████║██╔══██╗██║  ██║████╗ ████║██║   ██║██╔══██╗██║   ██║██║
-██╔████╔██║███████║███████║██╔████╔██║██║   ██║██║  ██║██║   ██║██║
-██║╚██╔╝██║██╔══██║██╔══██║██║╚██╔╝██║██║   ██║██║  ██║██║   ██║██║
-██║ ╚═╝ ██║██║  ██║██║  ██║██║ ╚═╝ ██║╚██████╔╝██████╔╝╚██████╔╝███████╗
-╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝ ╚═════╝ ╚═════╝  ╚═════╝ ╚══════╝
-
-██╗  ██╗ █████╗ ███████╗ █████╗ ███╗   ██╗
-██║  ██║██╔══██╗██╔════╝██╔══██╗████╗  ██║
-███████║███████║███████╗███████║██╔██╗ ██║
-██╔══██║██╔══██║╚════██║██╔══██║██║╚██╗██║
-██║  ██║██║  ██║███████║██║  ██║██║ ╚████║
-╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝
-```
-
 ### A S M Mahmudul Hasan
 **Software Engineer · Cloud Architect · ML Researcher**
 
@@ -37,27 +21,27 @@
 
 I'm a full-stack engineer with a focus on **cloud-native systems**, **distributed architecture**, and **ML systems in production**. At VoiceCradle, I design and ship scalable systems powering AI-driven voice automation and customer communication platforms. My technical depth spans backend systems (Java/Spring Boot), cloud infrastructure (AWS), and emerging research in ML fairness and transfer learning.
 
-- 🔭 Currently: Building AI-powered voice systems with Amazon Connect; Researching transfer learning in medical imaging
+- 🔭 Currently: Cloud-Native Architecture | AI Voice & IVR Automation | ERP Systems
 - ☁️ **AWS Certified**: Cloud Practitioner, Solutions Architect – Associate
 - 📊 Research interests: Transfer learning, medical image classification, ML fairness, speech processing
 - 🐳 DevOps focus: Docker, Kubernetes-ready architectures, CI/CD pipelines, observability
-- 🎓 Pursuing: BS in Computer Science & Engineering (BUBT, Aug 2026)
+- 🎓 Pursuing: BS in Computer Science & Engineering (BUBT, December 2026)
 
 ---
 
 ## 🏆 Certifications & Credentials
-
+ 
 <div align="center">
-
-[![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS_Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazon&logoColor=white)](https://www.credly.com/badges/aws-cloud-practitioner)
-[![AWS Certified Solutions Architect – Associate](https://img.shields.io/badge/AWS_Solutions_Architect-FF9900?style=for-the-badge&logo=amazon&logoColor=white)](https://www.credly.com/badges/aws-solutions-architect-associate)
-[![Odoo 19 Certified Functional](https://img.shields.io/badge/Odoo_19_Certified-8F4CA5?style=for-the-badge&logo=odoo&logoColor=white)](https://www.credly.com/badges/odoo-19-certified)
-
-**Verified Credly Credentials:**
-- **AWS Certified Cloud Practitioner** (Jul 2026) — Core AWS services, cloud computing fundamentals, and best practices
-- **AWS Certified Solutions Architect – Associate (SAA-C03)** (2026) — Designing scalable, resilient, and highly available cloud solutions on AWS
-- **Odoo 19 Certified Functional** — ERP system implementation, configuration, and functional expertise
-
+ 
+[![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS_Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazon&logoColor=white)](https://www.credly.com/badges/9115c939-6259-4577-b5b4-832e6ff56f88/public_url)
+[![AWS Certified Solutions Architect – Associate](https://img.shields.io/badge/AWS_Solutions_Architect-FF9900?style=for-the-badge&logo=amazon&logoColor=white)](https://www.credly.com/badges/9ff9309d-261c-4189-9ca5-b85fa921f265/public_url)
+[![Odoo 19 Certified Functional](https://img.shields.io/badge/Odoo_19_Certified-8F4CA5?style=for-the-badge&logo=odoo&logoColor=white)](./certificates/odoo-19-certified.pdf)
+ 
+**Verified Credentials:**
+- **AWS Certified Cloud Practitioner** (Jul 2026) — [Verify on Credly](https://www.credly.com/badges/9115c939-6259-4577-b5b4-832e6ff56f88/public_url) · Core AWS services, cloud computing fundamentals, and best practices
+- **AWS Certified Solutions Architect – Associate (SAA-C03)** (2026) — [Verify on Credly](https://www.credly.com/badges/9ff9309d-261c-4189-9ca5-b85fa921f265/public_url) · Designing scalable, resilient, and highly available cloud solutions on AWS
+- **Odoo 19 Certified Functional** — [View Certificate](./certificates/odoo-19-certified.pdf) · ERP system implementation, configuration, and functional expertise
+ 
 </div>
 
 ---
@@ -70,20 +54,6 @@ I'm a full-stack engineer with a focus on **cloud-native systems**, **distribute
    - Authors: A S M Mahmudul Hasan, et al.
    - Conference: ICAISEI 2026 (International Conference on AI & Software Engineering)
    - **Key Contribution**: Mel-Frequency Cepstral Coefficients (MFCC) analysis for Bangla speech classification across regional dialects
-
-### Active Research Projects
-
-- **Leakage-Aware Transfer Learning for Dermatological Image Classification**
-  - Investigating data leakage prevention in medical imaging transfer learning pipelines
-  - Datasets: HAM10000 (skin lesion classification)
-  - Status: Manuscript in preparation
-
-- **AdaBreXNet: Adaptive Breast Cancer Histopathology Classification**
-  - Deep learning model for breast cancer detection in histopathology images
-  - Architecture: Adaptive feature extraction with explainable AI (XAI)
-  - Dataset: BreakHis
-  - Status: Under review
-
 ---
 
 ## 🛠️ Tech Stack & Expertise
@@ -120,15 +90,6 @@ I'm a full-stack engineer with a focus on **cloud-native systems**, **distribute
 ---
 
 ## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mhasan-cmt&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=github_dark&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=CDD9E5" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhasan-cmt&layout=compact&hide_border=true&theme=github_dark&bg_color=0D1117&title_color=58A6FF&text_color=CDD9E5&langs_count=8" />
-
-</div>
-
 <div align="center">
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=mhasan-cmt&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF)
@@ -171,25 +132,6 @@ I'm a full-stack engineer with a focus on **cloud-native systems**, **distribute
 └─────────────────────────────────────────────────────┘
 ```
 
----
-
-## 🎓 Education & Continuous Learning
-
-- **Bachelor of Science, Computer Science & Engineering**
-  Bangladesh University of Business & Technology (BUBT) — Expected Aug 2026
-
-- **Diploma in Computer Technology**
-  Feni Polytechnic Institute (2017–2021)
-
-- **Professional Certifications:**
-  - AWS Certified Cloud Practitioner (2026)
-  - AWS Certified Solutions Architect – Associate (2026)
-  - Odoo 19 Certified Functional
-
-- **Active Learning:** Linux internals, Kubernetes, advanced system design, ML fairness & ethics, speech processing
-
----
-
 ## 🔗 Connect & Collaborate
 
 <div align="center">
@@ -197,7 +139,7 @@ I'm a full-stack engineer with a focus on **cloud-native systems**, **distribute
 I'm passionate about solving complex problems at scale, contributing to open research, and mentoring junior developers. Always interested in discussions about cloud architecture, distributed systems, and machine learning in production.
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mhasancmt)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mhshafin220@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devmahmud.cse@gmail.com)
 [![ORCID](https://img.shields.io/badge/ORCID_Profile-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0000-5222-4899)
 
 ---
