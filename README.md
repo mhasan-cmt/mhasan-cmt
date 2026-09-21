@@ -19,7 +19,11 @@
 
 ## 👨‍💻 About Me
 
-I'm a full-stack engineer with a focus on **cloud-native systems**, **distributed architecture**, and **ML systems in production**. At VoiceCradle, I design and ship scalable systems powering AI-driven voice automation and customer communication platforms. My technical depth spans backend systems (Java/Spring Boot), cloud infrastructure (AWS), and emerging research in ML fairness and transfer learning.
+I am Mahmudul Hasan, and I create cloud infrastructure and backend systems that enable large-scale AI speech automation. During my three years at VoiceCradle, I have worked closely with Amazon Connect, DynamoDB, and Lambda to create the technologies that power our AI-driven communication platform, including IVR flows, AI chatbot layers, and operational dashboards.
+
+Prior to that, I used query optimization and caching techniques to improve databases and APIs at USAHomeBid, significantly reducing page load times.
+
+I have a strong interest in event-driven architecture, distributed systems, and implementing AI in real-world settings. Java/Spring Boot → AWS · Python · DevOps is my stack. presently investigating ML fairness and transfer learning in medical imaging.
 
 - 🔭 Currently: Cloud-Native Architecture | AI Voice & IVR Automation | ERP Systems
 - ☁️ **AWS Certified**: Cloud Practitioner, Solutions Architect – Associate
