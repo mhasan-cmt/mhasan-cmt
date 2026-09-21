@@ -19,7 +19,9 @@
 ```
 
 ### A S M Mahmudul Hasan
-*Curious developer. Relentless builder. Cloud-native thinker.*
+**Software Engineer · Cloud Architect · ML Researcher**
+
+*Building systems at scale. Exploring distributed architectures. Contributing to open research.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-mhasancmt-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mhasancmt)
 <!--[![Website](https://img.shields.io/badge/Portfolio-shafin.dev-111827?style=flat-square&logo=firefox&logoColor=white)](https://shafin.dev)-->
@@ -33,35 +35,82 @@
 
 ## 👨‍💻 About Me
 
-I'm a full-stack software engineer with deep roots in the **Java/Spring Boot** ecosystem and hands-on cloud experience spanning **AWS**, **Docker**, and **CI/CD pipelines**. I enjoy building systems that are clean under the hood and delightful on the surface, from backend APIs to interactive front-end experiences.
+I'm a full-stack engineer with a focus on **cloud-native systems**, **distributed architecture**, and **ML systems in production**. At VoiceCradle, I design and ship scalable systems powering AI-driven voice automation and customer communication platforms. My technical depth spans backend systems (Java/Spring Boot), cloud infrastructure (AWS), and emerging research in ML fairness and transfer learning.
 
-- 🔭 Currently building with **Spring Boot**, **Angular**, and **AWS** cloud services
-- ☁️ Experienced with **Amazon Connect** for cloud contact center solutions
-- 🐳 Passionate about containerization, observability, and DevOps culture
-- 🌱 Always learning — currently deepening expertise in **Linux internals** and **CI/CD automation**
-- 💡 I believe great software is equal parts engineering and craft
+- 🔭 Currently: Building AI-powered voice systems with Amazon Connect; Researching transfer learning in medical imaging
+- ☁️ **AWS Certified**: Cloud Practitioner, Solutions Architect – Associate
+- 📊 Research interests: Transfer learning, medical image classification, ML fairness, speech processing
+- 🐳 DevOps focus: Docker, Kubernetes-ready architectures, CI/CD pipelines, observability
+- 🎓 Pursuing: BS in Computer Science & Engineering (BUBT, Aug 2026)
 
 ---
 
-## 🛠️ Tech Stack
+## 🏆 Certifications & Credentials
 
-### Backend
+<div align="center">
+
+[![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS_Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazon&logoColor=white)](https://www.credly.com/badges/aws-cloud-practitioner)
+[![AWS Certified Solutions Architect – Associate](https://img.shields.io/badge/AWS_Solutions_Architect-FF9900?style=for-the-badge&logo=amazon&logoColor=white)](https://www.credly.com/badges/aws-solutions-architect-associate)
+[![Odoo 19 Certified Functional](https://img.shields.io/badge/Odoo_19_Certified-8F4CA5?style=for-the-badge&logo=odoo&logoColor=white)](https://www.credly.com/badges/odoo-19-certified)
+
+**Verified Credly Credentials:**
+- **AWS Certified Cloud Practitioner** (Jul 2026) — Core AWS services, cloud computing fundamentals, and best practices
+- **AWS Certified Solutions Architect – Associate (SAA-C03)** (2026) — Designing scalable, resilient, and highly available cloud solutions on AWS
+- **Odoo 19 Certified Functional** — ERP system implementation, configuration, and functional expertise
+
+</div>
+
+---
+
+## 📚 Research & Publications
+
+### Peer-Reviewed Publications
+
+1. **Analyzing Regional Variations in Bangla Speech: A Voice Classification using MFCCs**
+   - Authors: A S M Mahmudul Hasan, et al.
+   - Conference: ICAISEI 2026 (International Conference on AI & Software Engineering)
+   - **Key Contribution**: Mel-Frequency Cepstral Coefficients (MFCC) analysis for Bangla speech classification across regional dialects
+
+### Active Research Projects
+
+- **Leakage-Aware Transfer Learning for Dermatological Image Classification**
+  - Investigating data leakage prevention in medical imaging transfer learning pipelines
+  - Datasets: HAM10000 (skin lesion classification)
+  - Status: Manuscript in preparation
+
+- **AdaBreXNet: Adaptive Breast Cancer Histopathology Classification**
+  - Deep learning model for breast cancer detection in histopathology images
+  - Architecture: Adaptive feature extraction with explainable AI (XAI)
+  - Dataset: BreakHis
+  - Status: Under review
+
+---
+
+## 🛠️ Tech Stack & Expertise
+
+### Backend & Systems
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
+### Data & Machine Learning
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit--learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-### Frontend
+### Databases & Storage
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### Frontend & UI
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
-### Cloud & DevOps
+### Cloud, DevOps & Infrastructure
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![Amazon Connect](https://img.shields.io/badge/Amazon_Connect-FF9900?style=for-the-badge&logo=amazon&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -124,17 +173,35 @@ I'm a full-stack software engineer with deep roots in the **Java/Spring Boot** e
 
 ---
 
-## 📫 Let's Connect
+## 🎓 Education & Continuous Learning
 
-<div align="center">
+- **Bachelor of Science, Computer Science & Engineering**
+  Bangladesh University of Business & Technology (BUBT) — Expected Aug 2026
 
-I'm always open to interesting problems, collaborations, and conversations about software.
+- **Diploma in Computer Technology**
+  Feni Polytechnic Institute (2017–2021)
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mhasancmt)
-<!--[![Portfolio](https://img.shields.io/badge/Visit_shafin.dev-111827?style=for-the-badge&logo=firefox&logoColor=white)](https://shafin.dev)-->
+- **Professional Certifications:**
+  - AWS Certified Cloud Practitioner (2026)
+  - AWS Certified Solutions Architect – Associate (2026)
+  - Odoo 19 Certified Functional
+
+- **Active Learning:** Linux internals, Kubernetes, advanced system design, ML fairness & ethics, speech processing
 
 ---
 
-*"First, solve the problem. Then, write the code."*
+## 🔗 Connect & Collaborate
+
+<div align="center">
+
+I'm passionate about solving complex problems at scale, contributing to open research, and mentoring junior developers. Always interested in discussions about cloud architecture, distributed systems, and machine learning in production.
+
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mhasancmt)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mhshafin220@gmail.com)
+[![ORCID](https://img.shields.io/badge/ORCID_Profile-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0000-5222-4899)
+
+---
+
+*"First, solve the problem. Then, write the code. Then, share the learning."*
 
 </div>
