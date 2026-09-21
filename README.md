@@ -34,19 +34,22 @@ I have a strong interest in event-driven architecture, distributed systems, and 
 ---
 
 ## 🏆 Certifications & Credentials
- 
+
 <div align="center">
- 
+
 [![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS_Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazon&logoColor=white)](https://www.credly.com/badges/9115c939-6259-4577-b5b4-832e6ff56f88/public_url)
 [![AWS Certified Solutions Architect – Associate](https://img.shields.io/badge/AWS_Solutions_Architect-FF9900?style=for-the-badge&logo=amazon&logoColor=white)](https://www.credly.com/badges/9ff9309d-261c-4189-9ca5-b85fa921f265/public_url)
 [![Odoo 19 Certified Functional](https://img.shields.io/badge/Odoo_19_Certified-8F4CA5?style=for-the-badge&logo=odoo&logoColor=white)](./certificates/odoo-19-certified.pdf)
- 
+
 **Verified Credentials:**
-- **AWS Certified Cloud Practitioner** (Jul 2026) — [Verify on Credly](https://www.credly.com/badges/9115c939-6259-4577-b5b4-832e6ff56f88/public_url) · Core AWS services, cloud computing fundamentals, and best practices
-- **AWS Certified Solutions Architect – Associate (SAA-C03)** (2026) — [Verify on Credly](https://www.credly.com/badges/9ff9309d-261c-4189-9ca5-b85fa921f265/public_url) · Designing scalable, resilient, and highly available cloud solutions on AWS
-- **Odoo 19 Certified Functional** — [View Certificate](./certificates/odoo-19-certified.pdf) · ERP system implementation, configuration, and functional expertise
- 
+
 </div>
+
+- **AWS Certified Cloud Practitioner** (Jul 2026) — [Verify on Credly](https://www.credly.com/badges/9115c939-6259-4577-b5b4-832e6ff56f88/public_url) · Core AWS services, cloud computing fundamentals, and best practices
+
+- **AWS Certified Solutions Architect – Associate (SAA-C03)** (2026) — [Verify on Credly](https://www.credly.com/badges/9ff9309d-261c-4189-9ca5-b85fa921f265/public_url) · Designing scalable, resilient, and highly available cloud solutions on AWS
+
+- **Odoo 19 Certified Functional** — [View Certificate](./certificates/odoo-19-certified.pdf) · ERP system implementation, configuration, and functional expertise
 
 ---
 
