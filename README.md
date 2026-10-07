@@ -3,15 +3,14 @@
 <div align="center">
 
 ### A S M Mahmudul Hasan
-**Software Engineer · Cloud Architect · ML Researcher**
+**Backend & Cloud Engineer · Java · Spring Boot · AWS**
 
-*Building systems at scale. Exploring distributed architectures. Contributing to open research.*
+*Building AI voice, automation, and cloud systems in production. Doing applied ML research on the side.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-mhasancmt-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mhasancmt)
 <!--[![Website](https://img.shields.io/badge/Portfolio-shafin.dev-111827?style=flat-square&logo=firefox&logoColor=white)](https://shafin.dev)-->
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0000--5222--4899-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0000-5222-4899)
 [![Location](https://img.shields.io/badge/Dhaka%2C_Bangladesh-🇧🇩-E53E3E?style=flat-square)](https://github.com/mhasan-cmt)
-[![Repos](https://img.shields.io/badge/Repositories-78-8B5CF6?style=flat-square&logo=github)](https://github.com/mhasan-cmt?tab=repositories)
 
 </div>
 
@@ -19,80 +18,87 @@
 
 ## 👨‍💻 About Me
 
-I am Mahmudul Hasan, and I create cloud infrastructure and backend systems that enable large-scale AI speech automation. During my three years at VoiceCradle, I have worked closely with Amazon Connect, DynamoDB, and Lambda to create the technologies that power our AI-driven communication platform, including IVR flows, AI chatbot layers, and operational dashboards.
+I build backend systems for voice, automation, and cloud infrastructure. For the past three-plus years at **VoiceCradle** I've designed and shipped the systems behind an AI-powered customer communication platform: Amazon Connect IVR call flows, Amazon Lex and LLM-backed chatbot layers, Lambda and DynamoDB services, and the real-time dashboards the team uses to run it.
 
-Prior to that, I used query optimization and caching techniques to improve databases and APIs at USAHomeBid, significantly reducing page load times.
+Before that, at **USAHomeBid**, I worked on API performance and database optimization for a real-estate platform, using query optimization and caching to significantly cut page load times.
 
-I have a strong interest in event-driven architecture, distributed systems, and implementing AI in real-world settings. Java/Spring Boot → AWS · Python · DevOps is my stack. presently investigating ML fairness and transfer learning in medical imaging.
+I'm most interested in event-driven architecture, distributed systems, and running AI in production. My stack is Java/Spring Boot on AWS, plus Python and Docker. On the research side, I work on transfer learning for medical image classification.
 
-- 🔭 Currently: Cloud-Native Architecture | AI Voice & IVR Automation | ERP Systems
-- ☁️ **AWS Certified**: Cloud Practitioner, Solutions Architect – Associate
-- 📊 Research interests: Transfer learning, medical image classification, ML fairness, speech processing
-- 🐳 DevOps focus: Docker, Kubernetes-ready architectures, CI/CD pipelines, observability
-- 🎓 Pursuing: BS in Computer Science & Engineering (BUBT, December 2026)
+- 🔭 **Currently:** AI voice & IVR automation on Amazon Connect · cloud-native backend systems
+- ☁️ **AWS Certified:** Solutions Architect – Associate, Cloud Practitioner
+- 📊 **Research interests:** transfer learning, medical image classification, data leakage in ML evaluation, speech processing
+- 🐳 **DevOps:** Docker, Nginx, Linux, CI/CD, observability (OpenSearch / ELK)
+- 🎓 **Education:** B.Sc. in Computer Science & Engineering, BUBT (expected Dec 2026)
 
 ---
 
-## 🏆 Certifications & Credentials
+## 🏆 Certifications
 
 <div align="center">
 
+[![AWS Certified Solutions Architect – Associate](https://img.shields.io/badge/AWS_Solutions_Architect_–_Associate-FF9900?style=for-the-badge&logo=amazon&logoColor=white)](https://www.credly.com/badges/9ff9309d-261c-4189-9ca5-b85fa921f265/public_url)
 [![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS_Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazon&logoColor=white)](https://www.credly.com/badges/9115c939-6259-4577-b5b4-832e6ff56f88/public_url)
-[![AWS Certified Solutions Architect – Associate](https://img.shields.io/badge/AWS_Solutions_Architect-FF9900?style=for-the-badge&logo=amazon&logoColor=white)](https://www.credly.com/badges/9ff9309d-261c-4189-9ca5-b85fa921f265/public_url)
 [![Odoo 19 Certified Functional](https://img.shields.io/badge/Odoo_19_Certified-8F4CA5?style=for-the-badge&logo=odoo&logoColor=white)](./certificates/odoo-19-certified.pdf)
-
-**Verified Credentials:**
 
 </div>
 
-- **AWS Certified Cloud Practitioner** (Jul 2026) — [Verify on Credly](https://www.credly.com/badges/9115c939-6259-4577-b5b4-832e6ff56f88/public_url) · Core AWS services, cloud computing fundamentals, and best practices
-
-- **AWS Certified Solutions Architect – Associate (SAA-C03)** (2026) — [Verify on Credly](https://www.credly.com/badges/9ff9309d-261c-4189-9ca5-b85fa921f265/public_url) · Designing scalable, resilient, and highly available cloud solutions on AWS
-
-- **Odoo 19 Certified Functional** — [View Certificate](./certificates/odoo-19-certified.pdf) · ERP system implementation, configuration, and functional expertise
+- **AWS Certified Solutions Architect – Associate (SAA-C03)**, Aug 2026 · [Verify on Credly](https://www.credly.com/badges/9ff9309d-261c-4189-9ca5-b85fa921f265/public_url)
+- **AWS Certified Cloud Practitioner (CLF-C02)**, Jul 2026 · [Verify on Credly](https://www.credly.com/badges/9115c939-6259-4577-b5b4-832e6ff56f88/public_url)
+- **Odoo 19 Certified Functional** · [View certificate](./certificates/odoo-19-certified.pdf)
 
 ---
 
 ## 📚 Research & Publications
 
-### Peer-Reviewed Publications
-
 1. **Analyzing Regional Variations in Bangla Speech: A Voice Classification using MFCCs**
-   - Authors: A S M Mahmudul Hasan, et al.
-   - Conference: ICAISEI 2026 (International Conference on AI & Software Engineering)
-   - **Key Contribution**: Mel-Frequency Cepstral Coefficients (MFCC) analysis for Bangla speech classification across regional dialects
+   *International Conference on Artificial Intelligence for Sustainable Engineering and Innovation (ICAISEI)*, 2026 · [ResearchGate](https://www.researchgate.net/publication/404296702)
+   District-level Bangla voice classification (Dhaka vs. Chittagong) from MFCC features, comparing classical ML models.
+
+2. **Leakage-aware transfer learning for dermatological image classification**
+   *IEEE i-COSTE*, 2026 (accepted)
+   Duplicate/leakage audit with group-disjoint splits, benchmarking 11 ImageNet CNN backbones on HAM10000.
+
 ---
 
-## 🛠️ Tech Stack & Expertise
+## 🛠️ Tech Stack
 
-### Backend & Systems
+### Backend
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### Data & Machine Learning
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit--learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+### Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Amazon Connect](https://img.shields.io/badge/Amazon_Connect-FF9900?style=for-the-badge&logo=amazon&logoColor=white)
+![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![OpenSearch](https://img.shields.io/badge/OpenSearch-005EB8?style=for-the-badge&logo=opensearch&logoColor=white)
 
-### Databases & Storage
+### Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### Frontend & UI
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+### ML & Automation
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit--learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 
-### Cloud, DevOps & Infrastructure
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![Amazon Connect](https://img.shields.io/badge/Amazon_Connect-FF9900?style=for-the-badge&logo=amazon&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| [**Personal Finance Tracker**](https://github.com/mhasan-cmt/finance_tracker_backend) | Finance tracking API with JWT auth, email OTP verification, and Flyway migrations, plus an Android client | `Spring Boot` `PostgreSQL` `Docker` |
+| [**url-shortener**](https://github.com/mhasan-cmt/url-shortener) | Bit.ly-style URL shortener with custom slugs, click tracking, and redirection | `Java` `Spring Boot` `PostgreSQL` |
+| [**OLK-Stack**](https://github.com/mhasan-cmt/OLK-Stack) | OpenSearch, Logstash & Kibana observability stack, containerized | `Docker` `OpenSearch` `Logstash` |
+| [**Spring-Data-Specification**](https://github.com/mhasan-cmt/Spring-Data-Specification) | Dynamic query building with Spring Data JPA Specifications | `Java` `Spring Boot` `JPA` |
+| [**Pustok-Online-book-shop**](https://github.com/mhasan-cmt/Pustok-Online-book-shop) | Android app for buying and reading books, with a separate admin panel | `Java` `Android` |
 
 ---
 
@@ -105,52 +111,14 @@ I have a strong interest in event-driven architecture, distributed systems, and 
 
 ---
 
-## 🚀 Featured Projects
-
-| Project | Description | Stack |
-|---|---|---|
-| [**url-shortener**](https://github.com/mhasan-cmt/url-shortener) | Bit.ly-style URL shortener with custom slugs, click tracking & redirection | `Java` `Spring Boot` `PostgreSQL` |
-| [**OLK-Stack**](https://github.com/mhasan-cmt/OLK-Stack) | OpenSearch, Logstash & Kibana observability stack demo | `Docker` `OpenSearch` `Logstash` |
-| [**Spring-Data-Specification**](https://github.com/mhasan-cmt/Spring-Data-Specification) | Dynamic query building with Spring Data JPA Specifications | `Java` `Spring Boot` `JPA` |
-| [**Pustok-Online-book-shop**](https://github.com/mhasan-cmt/Pustok-Online-book-shop) | Android app for buying & reading books with a separate admin panel | `Java` `Android` |
-| [**Attendence_Management**](https://github.com/mhasan-cmt/Attendence_Management) | Employee attendance management system | `Java` `Spring Boot` |
-
----
-
-## 🌐 Cloud & Infrastructure Focus
-
-```
-┌─────────────────────────────────────────────────────┐
-│                   AWS Ecosystem                      │
-│                                                      │
-│  ┌──────────────┐   ┌──────────────┐                │
-│  │  Amazon      │   │  EC2 / ECS   │                │
-│  │  Connect     │   │  Lambda      │                │
-│  └──────────────┘   └──────────────┘                │
-│                                                      │
-│  ┌──────────────┐   ┌──────────────┐                │
-│  │  Docker      │   │  CI/CD       │                │
-│  │  Containers  │   │  Pipelines   │                │
-│  └──────────────┘   └──────────────┘                │
-│                                                      │
-│  ┌──────────────────────────────────┐               │
-│  │    Linux  ·  Networking  ·  IaC  │               │
-│  └──────────────────────────────────┘               │
-└─────────────────────────────────────────────────────┘
-```
-
-## 🔗 Connect & Collaborate
+## 🔗 Connect
 
 <div align="center">
 
-I'm passionate about solving complex problems at scale, contributing to open research, and mentoring junior developers. Always interested in discussions about cloud architecture, distributed systems, and machine learning in production.
+Happy to talk about Amazon Connect, AWS architecture, backend design, or ML in production.
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mhasancmt)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devmahmud.cse@gmail.com)
 [![ORCID](https://img.shields.io/badge/ORCID_Profile-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0000-5222-4899)
-
----
-
-*"First, solve the problem. Then, write the code. Then, share the learning."*
 
 </div>
