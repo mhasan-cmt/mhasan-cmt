@@ -54,10 +54,6 @@ I'm most interested in event-driven architecture, distributed systems, and runni
    *International Conference on Artificial Intelligence for Sustainable Engineering and Innovation (ICAISEI)*, 2026 · [ResearchGate](https://www.researchgate.net/publication/404296702)
    District-level Bangla voice classification (Dhaka vs. Chittagong) from MFCC features, comparing classical ML models.
 
-2. **Leakage-aware transfer learning for dermatological image classification**
-   *IEEE i-COSTE*, 2026 (accepted)
-   Duplicate/leakage audit with group-disjoint splits, benchmarking 11 ImageNet CNN backbones on HAM10000.
-
 ---
 
 ## 🛠️ Tech Stack
